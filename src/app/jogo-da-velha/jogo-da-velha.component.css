@@ -2,6 +2,7 @@ div {
     width: 400px;
     height: 400px; 
 	text-align: center;
+	margin:auto;
 	font-family: 'Press Start 2P', cursive;
 }
 
